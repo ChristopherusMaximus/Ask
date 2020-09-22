@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="green">#4BB543</color>
+    <color name="red">#f00</color>
+    <color name="yellow">#FFC107</color>
+    <color name="grey">#37C1C1C1</color>
+    <color name="darkgrey">#99474747</color>
+    <color name="lightgreen">#b4ff94</color>
+    <color name="brunataOrange">#ea5906</color>
+    <color name="brunataBlue">#004c94</color>
+    <color name="brunataOrangeFade">#8AEA5906</color>
+</resources>

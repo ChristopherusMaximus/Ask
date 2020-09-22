@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ask</string>
+    <string name="startButtonInner">Start</string>
+    <string name="HeaderText">Willkommen zum Brunata Metrona Quiz!</string>
+    <string name="zur_website">Zur Website</string>
+    <string name="nochmal">Nochmal</string>
+    <string name="startseite">Start</string>
+    <string name="richtige">Richtige</string>
+    <string name="brunataimage">BrunataImage</string>
+    <string-array name="questionArr">
+        <item>Wie viele Mitarbeiter hat der Standort in München?#~550#~650#~750#3</item>
+        <item>In welchem Stadtteil ist Brunata Metrona ansässig?#Sendling#Giesing#Laim#1</item>
+        <item>Was ist die Kernkompetenz von Brunata Metrona?#Gebäudesanierung#Abrechnen von Energie- und Wasserkosten#Energie- und Wasserversorgung#2</item>
+        <item>Wann wurde der Standort in München gegründet?#~1949#~1953#~1968#1</item>
+        <item>Wie viel Prozent der Primärenergie in Wohnungen wird zur Erzeugung von Wärme- und Warmwasserversorgung verwendet?#15%#25%#35%#3</item>
+        <item>Wo befinden sich die drei deutschen Stammhäuser der Brunata-Metrona-Gruppe?#München, Berlin, Hamburg#München, Stuttgart, Hürth#München, Hamburg, Hürth#3</item>
+    </string-array>
+
+
+</resources>
