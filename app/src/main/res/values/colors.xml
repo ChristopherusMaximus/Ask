@@ -12,4 +12,5 @@
     <color name="brunataOrange">#ea5906</color>
     <color name="brunataBlue">#004c94</color>
     <color name="brunataOrangeFade">#8AEA5906</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
